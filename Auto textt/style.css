@@ -2,9 +2,9 @@
     padding:0;
     margin:0;
     box-sizing:border-box;
-  }
+}
   
-  body{
+body{
     display:flex;
     justify-content:center;
     align-items:center;
@@ -12,20 +12,20 @@
     font-family:sans-serif;
     background:#000;
     color:#fff;
-  }
+ }
   
-  p {
+p{
     font-size:3rem;
-  }
+}
   
-  .js {
+.js {
     color:cyan;
-  }
+}
   
-  .typed-text {
+.typed-text{
     color:red;
-  }
+}
   
-  .cursor {
+.cursor{
     background:teal;
-  }
+}
